@@ -1,5 +1,5 @@
 - 👋 hi, i am Bilal
-- 🌱 i am currently learning SAP ABAP, Flutter, C++
+- 🌱 i am currently learning ABAP, Flutter, C++
 - 💞️ i am looking to collaborate on Flutter
 - 📫 how to reach me: [my linkedin](https://www.linkedin.com/in/abilalkar/)
 
